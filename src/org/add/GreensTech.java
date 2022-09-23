@@ -19,7 +19,7 @@ public class GreensTech {
 	}
 
 	private void greensAnnanagar() {
-		System.out.println("ANNANAGAR");
+		System.out.println("ANNGAR");
 	}
 
 	public static void main(String[] args) {
@@ -29,5 +29,6 @@ public class GreensTech {
 		a.greensTambaram();
 		a.greensvelachery();
 		a.greensAnnanagar();
+		
 	}
 }
